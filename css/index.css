@@ -1,0 +1,53 @@
+input[type=text],[type=password],[type=email],[type=submit] ,select {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+  }
+  
+
+h3{
+	font-size: 2em;
+	margin-left: 35%;
+	margin-right: 40%;
+}
+
+table{
+	border-collapse: collapse;
+	width: 100%;
+}
+
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+.cadastrar-pizza{
+	margin-left: 35%;
+
+}
+
+#btn-adicionar{
+	margin-left: 15%;
+	padding: 1%;
+}
+.sair{
+	display: inline-block;
+	font-size: 1em;
+	text-decoration: none;
+}
+h4{
+	display: inline-block;
+	font-size: 19px;
+}
+
+.user{
+	position: absolute;
+	margin-left: 85%;
+	margin-bottom: 80%;
+}
